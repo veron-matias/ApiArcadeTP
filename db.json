@@ -38,9 +38,17 @@
                 {
                     "id": 6,
                     "name": "Brook PS3/PS4/Switch Wireless Fight Board",
-                    "price": "USD 69.95",
+                    "price": "USD $69.95",
                     "description": " Brook - designers of the popular family of Super Converters and one of the first manufacturers whose converters managed to gain tentative acceptance by EVO - brings to you wireless PS4 and Nintendo Switch control in their latest arcade Fightstick PCB.",
                     "img": "https://cdn2.bigcommerce.com/server500/d90a4/products/2430/images/17000/BROOK-PS3PS4-FB-WIRELESS-PCB__65320.1566440479.1280.1280.jpg"
+                }
+                ,
+                {
+                    "id": 7,
+                    "name": "Seimitsu LSX-NOBI-01 Pro Edition Joystick",
+                    "price": "USD $59.95",
+                    "description": "The Bullet lever handle is the most notable at 29mm, with height at 45mm. Its shape is unlike anything seen before.The restrictor plate in both Standard and Pro models are designed for smooth transition across the corners",
+                    "img": "https://cdn2.bigcommerce.com/server500/d90a4/products/2965/images/21604/LSX-NOBI-01-PRO-1024__85195.1617628531.1280.1280.jpg"
                 }
     ],
     "profile": {
